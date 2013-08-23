@@ -1,6 +1,5 @@
 /*******************************************************************************
  *  Author:   Alexander Bezobchuk                                              *
- *  Please do not reproduce                                                    *
  *                                                                             *
  *  This project represents a fictional type of UNIX filesytem. Many of the    *
  *  various commands that can be used on UNIX, this project will implement.    *
